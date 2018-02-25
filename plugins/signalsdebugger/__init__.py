@@ -1,0 +1,1 @@
+from signalsdebugger import register

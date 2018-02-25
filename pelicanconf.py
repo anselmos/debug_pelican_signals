@@ -9,7 +9,8 @@ SITEURL = ''
 PATH = 'content'
 
 TIMEZONE = 'Europe/Warsaw'
-
+PLUGIN_PATHS = ['plugins']
+PLUGINS = ['signalsdebugger']
 DEFAULT_LANG = u'en'
 
 # Feed generation is usually not desired when developing
